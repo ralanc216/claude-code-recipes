@@ -1,0 +1,34 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+._*
+.AppleDouble
+.LSOverride
+
+# IDE and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary/Build Files
+.temp/
+.tmp/
+dist/
+build/
+node_modules/
+
+# Environment/Secrets
+.env
+.env.local
+.env.*.local
+
+# Development files (not for publication)
+specs/
+
+# Backup files
+*.bak
+*.backup
