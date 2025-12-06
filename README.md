@@ -335,6 +335,52 @@ Every recipe follows the same structure:
 
 ---
 
+## Premium Collection: 200 Recipes as Slash Commands
+
+Want to skip copying prompts? The **Premium Collection** includes all 200 recipes as ready-to-use Claude Code slash commands.
+
+```
+/recipe-001 Here are my meeting notes from today...
+```
+
+One command. Instant results.
+
+### What's in the `premium/` Folder
+
+| File | Description |
+|------|-------------|
+| `PREMIUM.md` | Full details on the Premium Collection |
+| `README.md` | Installation guide for sample commands |
+| `recipe-001.md` to `recipe-005.md` | 5 free sample slash commands to try |
+
+### Try the Samples
+
+Install the 5 free sample commands:
+
+```bash
+# Mac/Linux
+cp premium/recipe-*.md ~/.claude/commands/
+
+# Windows PowerShell
+Copy-Item -Path "premium\recipe-*.md" -Destination "$env:USERPROFILE\.claude\commands\"
+```
+
+Then use them in Claude Code:
+```
+/recipe-001 Team standup: John finished API. Sarah blocked on design. Demo Friday.
+```
+
+### Premium Collection Includes
+
+- **200 slash commands** covering all 100 core recipes plus 100 advanced recipes
+- **20 categories** from daily tasks to enterprise strategy
+- Role-based quick-start guides
+- Cheat sheets and ROI tracking templates
+
+See [`premium/PREMIUM.md`](premium/PREMIUM.md) for full details and purchase options.
+
+---
+
 ## Contributing
 
 Found a bug? Have an improvement? Want to add a recipe?
