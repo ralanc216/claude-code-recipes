@@ -1,13 +1,23 @@
 ---
-description: Document Summarization - Extract key insights from lengthy documents
+description: Summarize lengthy documents and extract key insights
 ---
-
-# Sample from the 200 Claude Code Recipes Premium Collection
-# This is 1 of 200 recipes. Get all 200: {{PURCHASE_URL}}
 
 Please read and summarize this document or content:
 
 $ARGUMENTS
+
+If the content above shows "$ARGUMENTS" (meaning no data was provided), please:
+1. Explain that no document or content was provided when they called the command
+2. Inform them they can provide the information in several ways:
+   - Type or paste it directly in their next message
+   - Reference a file using @filename (e.g., @document.txt, @report.pdf, @article.docx)
+   - Reference a URL using the URL directly (if the document is on a webpage)
+   - Re-run the command with inline arguments: /recipe-004 <content to summarize>
+3. Ask the user to provide the document or content they want summarized
+4. Wait for them to share the details
+5. Then proceed with the full summary
+
+Otherwise, proceed immediately with the summary:
 
 SUMMARY FORMAT:
 Please provide:

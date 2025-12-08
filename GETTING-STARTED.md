@@ -2,7 +2,7 @@
 
 **Your Guide to Installing and Using Claude Code for the Top 100 Recipes**
 
-*Last Updated: November 2025*
+*Last Updated: December 2025*
 
 ---
 

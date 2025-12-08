@@ -2,7 +2,7 @@
 
 ## Top 100 Claude Code Recipes for Knowledge Workers
 
-**Version 1.0 — November 2025**
+**Version 1.0 — December 2025**
 
 ---
 

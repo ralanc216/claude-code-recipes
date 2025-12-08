@@ -1,9 +1,6 @@
 ---
-description: Weekly Status Report Generation - Create structured status reports from scattered updates
+description: Generate a structured weekly status report from scattered updates
 ---
-
-# Sample from the 200 Claude Code Recipes Premium Collection
-# This is 1 of 200 recipes. Get all 200: {{PURCHASE_URL}}
 
 Please help me create my weekly status report from these raw inputs.
 
@@ -11,6 +8,19 @@ RAW UPDATES (from this week):
 """
 $ARGUMENTS
 """
+
+If the REPORT FORMAT above shows "$ARGUMENTS" (meaning no data was provided), please:
+1. Explain that no data was provided when they called the command
+2. Inform them they can provide the information in several ways:
+   - Type or paste it directly in their next message
+   - Reference a file using @filename (e.g., @data.txt, @document.xlsx, @report.pdf)
+   - Reference a URL using the URL directly (if the information is on a webpage)
+   - Re-run the command with inline arguments: /recipe-002 <details>
+3. Ask the user to provide the necessary information
+4. Wait for them to share the details
+5. Then proceed with the full analysis
+
+Otherwise, proceed immediately with creating:
 
 REPORT FORMAT:
 Please structure the report as follows:

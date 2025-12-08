@@ -4,7 +4,7 @@ All notable changes to the Top 100 Claude Code Recipes collection will be docume
 
 ---
 
-## [1.0.0] — November 27, 2025
+## [1.0.0] — December 7, 2025
 
 ### Initial Release
 

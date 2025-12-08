@@ -203,4 +203,4 @@ If you encounter a term not listed here:
 
 ---
 
-*Glossary last updated: November 2025*
+*Glossary last updated: December 2025*

@@ -1,6 +1,6 @@
 # Sample Slash Commands (Free)
 
-These 5 sample commands give you a taste of the full 200-recipe Premium Collection.
+These 10 sample commands give you a taste of the full 200-recipe Premium Collection.
 
 ## Installation
 
@@ -21,6 +21,11 @@ Copy-Item -Path "sample-commands\recipe-*.md" -Destination "$env:USERPROFILE\.cl
 | `/recipe-003` | Email Drafting and Response |
 | `/recipe-004` | Document Summarization |
 | `/recipe-005` | Rapid Presentation Development |
+| `/recipe-006` | Calendar Analysis and Optimization |
+| `/recipe-007` | Research Synthesis |
+| `/recipe-008` | Task Prioritization System |
+| `/recipe-009` | Data Cleanup and Standardization |
+| `/recipe-010` | Quick Reference Guide Creator |
 
 ## Try It
 
@@ -32,11 +37,11 @@ After installing, open Claude Code and type:
 
 ## Want All 200?
 
-These 5 samples are from the **Premium Collection** which includes:
+These 10 samples are from the **Premium Collection** which includes:
 
 - 200 slash commands covering 20 categories
 - Role-based quick-start guides
 - Cheat sheets and templates
 - Full recipe documentation
 
-**[Get the Premium Collection]({{PURCHASE_URL}})**
+**[Get the Premium Collection](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b)**

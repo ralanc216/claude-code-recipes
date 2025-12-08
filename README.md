@@ -2,7 +2,7 @@
 
 **Your Complete Guide to AI-Powered Productivity**
 
-*Version 1.0 — November 2025*
+*Version 1.0 — December 2025*
 
 ---
 
@@ -351,11 +351,11 @@ One command. Instant results.
 |------|-------------|
 | `PREMIUM.md` | Full details on the Premium Collection |
 | `README.md` | Installation guide for sample commands |
-| `recipe-001.md` to `recipe-005.md` | 5 free sample slash commands to try |
+| `recipe-001.md` to `recipe-010.md` | 10 free sample slash commands to try |
 
 ### Try the Samples
 
-Install the 5 free sample commands:
+Install the 10 free sample commands:
 
 ```bash
 # Mac/Linux
@@ -403,4 +403,4 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
 
 *100 Recipes. Unlimited Productivity.*
 
-*Version 1.0 — Built for Claude Code — November 2025*
+*Version 1.0 — Built for Claude Code — December 2025*

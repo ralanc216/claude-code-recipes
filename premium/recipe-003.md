@@ -1,9 +1,6 @@
 ---
-description: Email Drafting and Response - Craft complex or sensitive email responses
+description: Draft professional emails and responses for complex or sensitive situations
 ---
-
-# Sample from the 200 Claude Code Recipes Premium Collection
-# This is 1 of 200 recipes. Get all 200: {{PURCHASE_URL}}
 
 Please draft an email response for me.
 
@@ -11,6 +8,19 @@ ORIGINAL EMAIL / CONTEXT:
 """
 $ARGUMENTS
 """
+
+If the ORIGINAL EMAIL / CONTEXT above shows "$ARGUMENTS" (meaning no data was provided), please:
+1. Explain that no data was provided when they called the command
+2. Inform them they can provide the information in several ways:
+   - Type or paste it directly in their next message
+   - Reference a file using @filename (e.g., @data.txt, @document.xlsx, @report.pdf)
+   - Reference a URL using the URL directly (if the information is on a webpage)
+   - Re-run the command with inline arguments: /recipe-003 <details>
+3. Ask the user to provide the necessary information
+4. Wait for them to share the details
+5. Then proceed with the full analysis
+
+Otherwise, proceed immediately with creating:
 
 Please draft the email with:
 - Appropriate subject line (if new email) or just the body (if reply)

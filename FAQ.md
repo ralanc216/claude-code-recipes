@@ -245,4 +245,4 @@ Claude Code is a productivity tool, not a replacement for professional judgment.
 
 ---
 
-*FAQ last updated: November 2025*
+*FAQ last updated: December 2025*
