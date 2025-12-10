@@ -16,9 +16,9 @@ Whether you're drafting emails, analyzing data, preparing presentations, or mana
 
 > **Want all 200 recipes as ready-to-use slash commands?**
 >
-> The **[Premium Collection](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b)** includes 200 slash commands you can install in seconds. Just type `/recipe-001` and Claude does the rest. No copying prompts. No setup. **$79.99 one-time purchase.**
+> The **[Premium Collection](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b?utm_source=github&utm_medium=readme&utm_campaign=launch)** includes 200 slash commands you can install in seconds. Just type `/recipe-001` and Claude does the rest. No copying prompts. No setup. **$79.99 one-time purchase.**
 >
-> **[Get the Premium Collection →](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b)**
+> **[Get the Premium Collection →](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b?utm_source=github&utm_medium=readme&utm_campaign=launch)**
 
 
 ## Getting Started

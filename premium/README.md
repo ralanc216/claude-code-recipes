@@ -44,4 +44,4 @@ These 10 samples are from the **Premium Collection** which includes:
 - Cheat sheets and templates
 - Full recipe documentation
 
-**[Get the Premium Collection](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b)**
+**[Get the Premium Collection](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b?utm_source=github&utm_medium=samples&utm_campaign=launch)**

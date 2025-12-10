@@ -153,7 +153,7 @@ Users: Power users who check daily
 - Cheat sheets and templates
 - Lifetime access to this version
 
-**[Get the Premium Collection](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b)**
+**[Get the Premium Collection](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b?utm_source=github&utm_medium=premium_page&utm_campaign=launch)**
 
 ---
 
@@ -184,4 +184,4 @@ This public repository contains preview documentation and samples. The full coll
 
 *Stop writing prompts. Start with `/recipe-001`.*
 
-**[Get the Premium Collection](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b)**
+**[Get the Premium Collection](https://learningai365.lemonsqueezy.com/buy/703305ce-b87f-4ccc-bf8c-b629c3116f7b?utm_source=github&utm_medium=premium_page&utm_campaign=launch)**
